@@ -1,0 +1,21 @@
+{
+  "name": "linter",
+  "version": "1.0.0",
+  "description": "some description",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.14.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "keywords": [
+    "some"
+  ],
+  "author": "septoon",
+  "license": "ISC"
+}
